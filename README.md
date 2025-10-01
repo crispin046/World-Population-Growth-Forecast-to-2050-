@@ -49,10 +49,3 @@ This project explores **world population growth trends** using historical data, 
 ---
 
 
-
-pip install -r requirements.txt
-
-
----
-
-Do you also want me to add a **"How to Run" section** with step-by-step instructions for cloning the repo and running the notebook? That makes the README even more user-friendly on GitHub.
