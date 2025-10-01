@@ -1,1 +1,3 @@
-# World-Population-Growth-Forecast-to-2050-
+# World Population Growth - Analysis
+
+This repository contains a Jupyter notebook performing EDA, visualization, and baseline modeling for the provided dataset.
