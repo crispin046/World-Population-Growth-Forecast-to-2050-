@@ -1,19 +1,11 @@
 # 🌍 World Population Growth Analysis  
+![World Population Growth](https://github.com/user-attachments/assets/1fa34510-e3b8-480a-b47d-dbc2ef21a8b8)
+
 
 This project explores **world population growth trends** using historical data, exploratory data analysis (EDA), visualizations, and machine learning models to forecast population up to **2050**.  
 
 ---
 
-## 📂 Project Structure  
-├── data/
-│ └── World Population Growth.csv # Original dataset
-├── notebooks/
-│ └── world_population_analysis.ipynb # Main Jupyter notebook
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-
-
----
 
 ## 🔍 Steps in the Analysis  
 
@@ -56,26 +48,8 @@ This project explores **world population growth trends** using historical data, 
 
 ---
 
-## ⚠️ Limitations  
-- Dataset is **global only** (no per-country breakdown).  
-- Extrapolation assumes past trends continue — may not reflect real-world changes (e.g., fertility decline, climate, migration).  
-- More robust forecasting would use **time-series models** (ARIMA, Holt-Winters, Prophet).  
 
----
 
-## 🚀 Next Steps  
-- Add time-series forecasting (Prophet, ARIMA/SARIMAX)  
-- Compare UN population projections with model results  
-- Build dashboards (Streamlit / PowerBI / Tableau) for interactive visualization  
-- If country-level data is available, extend the analysis to compare across regions  
-
----
-
-## 💻 Requirements  
-
-Install dependencies with:  
-
-```bash
 pip install -r requirements.txt
 
 
